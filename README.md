@@ -23,7 +23,7 @@ Long Short-Term Memory (LSTM) models are a type of recurrent neural network (RNN
 
 STEPS INVOLVED IN STOCK MARKET PREDICTION:
 
-1. Data Collection and Preprocessing:
+1.Data Collection and Preprocessing:
 
 Collect Historical Data: Gather historical stock prices and other relevant features (e.g., volume, technical indicators) for the NSE stock you want to predict.
 Normalize Data: Scale the data to a range of 0 to 1 to improve model performance.
