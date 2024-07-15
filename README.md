@@ -30,16 +30,16 @@ Normalize Data: Scale the data to a range of 0 to 1 to improve model performance
 Create Sequences: Prepare the data in sequences of a fixed length (e.g., 60 days) that the LSTM can learn from. The target variable will be the stock price for the next day.
 
 
-2. Split Data:
+2.Split Data:
 
 Training and Testing Sets: Split the dataset into training and testing sets to evaluate model performance.
 
-3. Build LSTM Model:
+3.Build LSTM Model:
 
 Define Model Architecture: Create an LSTM model with layers suitable for time series forecasting.
 Compile the Model: Specify the optimizer, loss function, and metrics.
 
-4. Train the Model:
+4.Train the Model:
 
 Fit the Model: Train the LSTM model on the training data and validate it using the testing data.
 
